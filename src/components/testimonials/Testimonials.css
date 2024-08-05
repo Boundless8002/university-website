@@ -106,3 +106,16 @@
     font-size: 12px;
   }
 }
+@media (max-width: 330px) {
+  .user-info {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 10px;
+  }
+  .user-info h3 {
+    font-size: 12px;
+  }
+  .slider p {
+    font-size: 9px;
+  }
+}
